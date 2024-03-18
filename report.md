@@ -1,7 +1,7 @@
 # SWR-lab1-STP
 > 1. Pourquoi l’utilisation de STP est-elle nécessaire avec une telle topologie réseau ?
-Car une boucle existe entre les switchs.
 
+Car une boucle existe entre les switchs.
 > 2. Est-ce que les switches utilisés dans cette simulation ont STP activé par défaut ? Justifiez votre réponse avec une capture WireShark du trafic entre les switches.
 
 > 3. Quelle est la di érence entre la topologie initiale et celle ci-dessous ?
