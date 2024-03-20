@@ -98,3 +98,8 @@ b) Les ports devraient rester comme auparavant à l'exception des ports concern�
 c) Le passe par le switch S4 comme démontré dans la capture ci-dessous : ![alt text](./screenshots/q16_c.png)
 
 > 17. Lancez une capture Wireshark entre deux switches. Montrez l’évolution du contenu des trames STP durant le processus d’élection du root. Vous pouvez redémarrer les switches afin de réinitialiser les configurations précédentes. 
+
+Afin de mieux observer le processus d'élection de la racine, nous avons ajouté un nouveau switch S5 afin de pouvoir observer l'annonce de celui-ci comme racine. Pour pouvoir observer cet évènement le S5 est démarré après tous les autres switchs.
+
+Nous observons sur la capture d'écran ci-dessous la "Topology change notification" qui annonce représente l'annonce du S5 comme racine temporairement.
+![alt text](./screenshots/q17.png)
