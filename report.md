@@ -40,7 +40,7 @@ Le S1 sera l'élu.
 
 > 9. Créez un schéma du réseau et représentez le switch racine ainsi que les ports racines, désignés et bloqués en utilisant les connaissances acquises en cours. Indiquez également le chemin que devrait emprunter un ping entre PC1 et PC2. Prouvez-le en exécutant le ping et en joignant une capture d’écran (en capturant entre S1 et S4 ou S1 et S3 par exemple).
 
-![alt text](./screenshots/q9.png)
+![alt text](./screenshots/q9_scheme.png)
 
 Des trames ICMP sont visibles entre entre les switch S1 et S3 mais pas entre les switch S1 et S4.
 
